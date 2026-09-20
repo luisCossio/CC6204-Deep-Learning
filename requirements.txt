@@ -2,6 +2,7 @@ numpy
 pandas
 torch>=2.4.0
 torchvision>=0.21.0
+torchviz
 tqdm>=4.67.1
 jsons
 opencv-python>=4.12.0.88
